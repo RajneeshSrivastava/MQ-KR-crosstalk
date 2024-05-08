@@ -1,0 +1,7 @@
+### The Mitochondrial Bioenergetics of Functional Wound Closure is Dependent on Macrophage-Keratinocyte Exosomal Crosstalk
+#### SUMMARY
+Tissue nanotransfection (TNT) based fluorescent labeling of cell-specific exosomes have shown that exosomes play a central role in physiological keratinocyte-macrophage (mQ) crosstalk at the wound site. Here we report that during the early phase of wound re-epithelialization, macrophage-derived exosomes (ExomQ), enriched with the outer mitochondrial membrane protein TOMM70, are localized in leading-edge keratinocytes. Exosomal packaging of TOMM70 in mQ was independent of mitochondrial fission. TOMM70-enriched ExomQ compensated for the hypoxia-induced depletion of epidermal TOMM70 thereby rescuing mitochondrial metabolism in leading-edge keratinocytes. Thus, macrophage derived TOMM70 is responsible for glycolytic ATP supply to power keratinocyte migration. Blockade of exosomal uptake from keratinocytes blunted exosomal packaging of TOMM70 in microenvironmental m and impaired wound closure, pointing towards a bidirectional crosstalk between these two cell types.  The significance of such bidirectional crosstalk was established by the observation that in patients with non-healing diabetic foot ulcers, TOMM70 is deficient in keratinocytes of wound-edge tissue.
+
+#### *R code for single cell data analysis is available following the link:*
+
+https://github.com/RajneeshSrivastava/MQ-KR-crosstalk/blob/main/scRNA-seq-analysis.md
